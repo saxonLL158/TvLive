@@ -39,7 +39,6 @@ VIUTV,https://yang-1989.eu.org/live/ViuTV$搜索资源
 VIUTV,https://cdn.163189.xyz/163189/viu$搜索资源
 VIUTV,https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.ctv$HD
 VIUTV,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8$HD
-VIUTV1,http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8$fmys
 翡翠台,https://migu.188766.xyz/?migutoken=5e1d93f6ea742c67ac381df1b2a3dc50&id=hk_fct&type=dy$广东台转播
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$1080
 翡翠台,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8$720
@@ -49,9 +48,6 @@ VIUTV1,http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8$fmys
 翡翠台,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv$BD卡
 翡翠台,https://stream1.freetv.fun/ec738c8f8b5d5706670eb42e4fe79edc5d6f471ba93d0eb20dff4c372efef4db.ctv$HD
 翡翠台,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.ctv$HD
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8$无线翡翠
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8$fmys
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv$fmys
 翡翠台4K,https://migu.188766.xyz/?migutoken=941a09e16b5996a5729011d7037aa817&id=hk_fct4k&type=dy
 翡翠台4K,https://cdn6.101.qzz.io/163189/fct4k$搜索资源
 TVB Plus,https://cdn6.101.qzz.io/163189/tvbp$cdn6101
